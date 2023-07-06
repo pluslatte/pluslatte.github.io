@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/pluslatte
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pluslatte.com
+  * I am pluslatte (https://keybase.io/pluslatte) on keybase.
+  * I have a public key ASDtDWT4WFFEw7gM_a1SUDItComeYxhZA0iDJhKkuViytAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012015e9494a1d54335d80590e48aba333f54b45426c703d99d3506ce6eaea201f0d0a",
+      "host": "keybase.io",
+      "kid": "0120ed0d64f8585144c3b80cfdad5250322d0a899e6318590348832612a4b958b2b40a",
+      "uid": "6400b2053a2b09f493f11d265b9cae19",
+      "username": "pluslatte"
+    },
+    "merkle_root": {
+      "ctime": 1688615010,
+      "hash": "42bb82fae1b9a23c918343ead0d9e8429859d2fd2be6a76872bfd1de6f6f0e3003ea82a63427e7b10da7f14d9e4525882513f8cb5c4c6ea9147472c7bb3c9515",
+      "hash_meta": "38cbfaba5887c571e09dac00d622f2db33a14021efd5f82509c3f1ebb70d0183",
+      "seqno": 24649916
+    },
+    "service": {
+      "entropy": "6ymZ5jz2+UZKoMGSL62fB+aC",
+      "hostname": "pluslatte.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1688615119,
+  "expire_in": 504576000,
+  "prev": "26f9b8e48517e37395ee68b9ea77841efd99bb7d40ddd296af9d4ecc22dd2236",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7Q1k+FhRRMO4DP2tUlAyLQqJnmMYWQNIgyYSpLlYsrQKp3BheWxvYWTESpcCCsQgJvm45IUX43OV7mi56neEHv2Zu31A3dKWr51OzCLdIjbEID+vJLe7C2w4FUFueubYkAduF++RRs2siwi3V/2vAy1wAgHCo3NpZ8RAJlGLgp+1FZjV0/6ULO/dQx+EZ4g5bO47PdGkCgC3jNTyGSTLpNBKLSL0o2X6D1ix5n08nDRn+fefbHTu3sdRBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIODxbQNcJB5o0IlXpsAzDcVUK7tVxg6TbdTcUmtaDZQ/o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pluslatte
+
+==================================================================
